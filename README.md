@@ -19,3 +19,20 @@ The main goal of the projet is to ensure survival of the original Ethereum block
 
 ### Development
 We fork Ethereum and maintain upstream patches similar to the relation between Redhat and CentOS, until a community can form around the project and create a road map. Until this happens we can fork multiple existing clients to help prevent a monoculture of clients. We plan to follow https://github.com/ethereum development except for any features they introduce into existing clients that violate the key principles of openness, neutrality and immutability.
+
+### Community
+
+https://www.ethereumclassic.org (Under development)
+https://www.reddit.com/r/EthereumClassic/
+
+#### Users
+
+In order to remain on the original chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
+
+### Miners
+
+Miners supporting the original chain should just keep mining with current version of software for now, without upgrading to client version introducing the hardfork code. It will be always possible to download and build latest non-fork version from https://github.com/ethereumclassic. 
+
+The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that a most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in original chain ETH even with solo mining.
+
+Mining pool supporting the originar chain is currently under development, please check here in a couple of days. 
