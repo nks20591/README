@@ -68,3 +68,5 @@ Also remember that money is an extremely powerful motivator--and the thought of 
 After all, pro-fork DTHs have the opportunity to exit the ecosystem entirely--potentially at a profit.
 
 Those of us who are here because it's something we believe in?  Not so much.
+
+Source: https://gist.github.com/DeviateFish/936e02171b4d98eecf234e86a828cb4e#background
