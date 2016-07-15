@@ -1,15 +1,16 @@
 ### Ethereum Classic is a project to keep original censorship-resistant Ethereum going
 **Have questions? Create an issue or request to be added to this project to contribute.**
 ## Ideology
-We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted. 
+We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone. 
  
-More on ideology: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
+More: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
+
 ## Motivation
 Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (almost hidden, pro-fork) [Carbonvote](http://carbonvote.com/) 17% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners opposed the previous 'DAO softfork' and would logically oppose hardfork as well. This significant minority should not be silenced or intimidated into submission - they should be given a choice. 
 
 It appears if we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized software that are actually censorship resistent.
 
-More on motivation: https://github.com/ethereumclassic/freeworldcomputer-project
+More: https://github.com/ethereumclassic/freeworldcomputer-project
 
 ## Goals
 
