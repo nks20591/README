@@ -5,6 +5,7 @@ We believe in decentralized, censorship-resistant, permissionless blockchains. W
  
 More on ideology: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
 ## Motivation
+Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (almost hidden, pro-fork) Carbonvote (http://carbonvote.com/) 17% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners opposed the previous 'DAO softfork' and would logically oppose hardfork as well. This significant minority should not be silenced or intimidated into submission - they should be given a choice. 
 
 It appears if we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized software that are actually censorship resistent.
 
