@@ -1,4 +1,4 @@
-### Ethereum Classic is a project to keep original censorship-resistant Ethereum going
+### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 **Have questions? Create an issue or request to be added to this project to contribute.**
 ## Ideology
 We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone. 
