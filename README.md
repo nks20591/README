@@ -24,7 +24,7 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 
 ### Community
 
-* https://www.ethereumclassic.org (Under development)
+* https://www.ethereumclassic.org
 * https://www.reddit.com/r/EthereumClassic/
 
 ## What can I do?
@@ -42,6 +42,6 @@ In order to remain on the original Ethereum chain, just don't upgrade to hardfor
 
 Miners supporting the original chain should just keep mining with current version of software for now, without upgrading to client version introducing the hardfork code. It will be always possible to download and build latest non-fork version from https://github.com/ethereumclassic. 
 
-The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that a most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in original chain ETH even with solo mining.
+The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in original chain ETH even with solo mining.
 
 Mining pool supporting the original chain is currently under development, please check here in a couple of days. 
