@@ -25,6 +25,13 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 * https://www.ethereumclassic.org (Under development)
 * https://www.reddit.com/r/EthereumClassic/
 
+## What can I do?
+
+Please help us spread the word about this project in Ethereum community! 
+
+### Volunteers
+If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, people can put website together quickly, people who can write and advocate the need to preserve the original Ethereum. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new). Let's make sure original Ethereum vision doesn't 'go gentle into that good night'!
+
 ### Users
 
 In order to remain on the original chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
