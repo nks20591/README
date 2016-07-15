@@ -1,5 +1,6 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 **Have questions? Create an issue or request to be added to this project to contribute.**
+
 ## Ideology
 We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone. 
  
@@ -8,13 +9,13 @@ More: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9e
 ## Motivation
 Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (diligently hidden, pro-fork) coin vote on [Carbonvote](http://carbonvote.com/), 17% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners voted against the previous 'DAO softfork' and would logically oppose hardfork as well. Such a significant minority of stakeholders should not be silenced or intimidated into submission - they should be given a clear choice. 
 
-If we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized applications that are actually censorship resistent.
+If we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized applications that are actually censorship resistant.
 
 More: https://github.com/ethereumclassic/freeworldcomputer-project
 
 ## Goals
 
-The main goal of the projet is to ensure survival of the original Ethereum blockchain. We will strive to provide alternative for people who strongly disagree with DAO bailout and the direction Ethereum Foundation is taking their project. Anyone opting to remain on the original chain should have such opportunity.
+The main goal of the project is to ensure survival of the original Ethereum blockchain. We will strive to provide alternative for people who strongly disagree with DAO bailout and the direction Ethereum Foundation is taking their project. Anyone opting to remain on the original chain should have such opportunity.
 
 ## Plan
 
@@ -35,7 +36,7 @@ If you feel strongly about the cause, please get involved. With just days before
 
 ### Users
 
-In order to remain on the original Etherum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
+In order to remain on the original Ethereum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
 ### Miners
 
@@ -43,4 +44,4 @@ Miners supporting the original chain should just keep mining with current versio
 
 The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that a most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in original chain ETH even with solo mining.
 
-Mining pool supporting the originar chain is currently under development, please check here in a couple of days. 
+Mining pool supporting the original chain is currently under development, please check here in a couple of days. 
