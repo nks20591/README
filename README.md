@@ -25,7 +25,7 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 * https://www.ethereumclassic.org (Under development)
 * https://www.reddit.com/r/EthereumClassic/
 
-#### Users
+### Users
 
 In order to remain on the original chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
