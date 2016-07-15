@@ -6,10 +6,15 @@ We believe in decentralized, censorship-resistant, permissionless blockchains. W
 More on ideology: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
 ## Motivation
 
-It appears if we want to continue to move forward and guarantee that the original Ethereum, we must fork Ethereum. This will lay the foundation to build secure decentralized software that are actually censorship resistent.
+It appears if we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized software that are actually censorship resistent.
 
 More on motivation: https://github.com/ethereumclassic/freeworldcomputer-project
 
+## Goals
+
+The main goal of the projet is to ensure survival of the original Ethereum blockchain. We will strive to provide alternative for people who strongly disagree with DAO bailout and the direction Ethereum Foundation is taking their project. Anyone opting to remain on the original chain should have such opportunity.
+
 ## Plan
 
+### Development
 We fork Ethereum and maintain upstream patches similar to the relation between Redhat and CentOS, until a community can form around the project and create a road map. Until this happens we can fork multiple existing clients to help prevent a monoculture of clients. We plan to follow https://github.com/ethereum development except for any features they introduce into existing clients that violate the key principles of openness, neutrality and immutability.
