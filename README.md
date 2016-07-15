@@ -7,7 +7,7 @@ We believe in decentralized, censorship-resistant, permissionless blockchains. W
 More: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
 
 ## Motivation
-Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (diligently hidden, pro-fork) coin vote on [Carbonvote](http://carbonvote.com/), 17% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners voted against the previous 'DAO softfork' and would logically oppose hardfork as well. Such a significant minority of stakeholders should not be silenced or intimidated into submission - they should be given a clear choice. 
+Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (diligently hidden, pro-fork) coin vote on [Carbonvote](http://carbonvote.com/), 19% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners voted against the previous 'DAO softfork' and would logically oppose hardfork as well. Such a significant minority of stakeholders should not be silenced or intimidated into submission - they should be given a clear choice. 
 
 If we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized applications that are actually censorship resistant.
 
@@ -32,13 +32,13 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 Please help us spread the word about this project in Ethereum community! 
 
 ### Volunteers
-If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, people can put website together quickly, people who can write and advocate the need to preserve the original Ethereum. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new). Let's make sure original Ethereum vision doesn't "go gentle into that good night"!
+If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new). Let's make sure original Ethereum vision doesn't "go gentle into that good night"!
 
 ### Users
 
 In order to remain on the original Ethereum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
-Fun fact. If you keep ETH under your direct control (not in a 3rd party wallet or exchange account), you will have **two** sets of coins instead of one post-fork. You may then install a forked Ethereum client in addition to original one, copy your private keys there and use your coins on both chains! You won't be so lucky if your ETH are with 3rd party going into a fork - some exchanges [already announced](https://np.reddit.com/r/ethereum/comments/4sy7w6/breaking_kraken_on_the_july_20th_ethereum/) that they will only return one type of coin post-fork to its users.
+Fun fact. If you keep ETH under your direct control (not in a 3rd party wallet or exchange account), you will have **two** sets of coins instead of one post-fork. You could then install a forked Ethereum client in addition to Ethereum Classic, copy your private keys there and use your coins on both chains! You won't be so lucky if your ETH are locked with 3rd party going into the fork - some exchanges [already announced](https://np.reddit.com/r/ethereum/comments/4sy7w6/breaking_kraken_on_the_july_20th_ethereum/) that they will only return one type of coin post-fork to its users.
 
 ### Miners
 
