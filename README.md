@@ -8,7 +8,7 @@ More: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9e
 ## Motivation
 Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (diligently hidden, pro-fork) coin vote on [Carbonvote](http://carbonvote.com/), 17% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners voted against the previous 'DAO softfork' and would logically oppose hardfork as well. Such a significant minority of stakeholders should not be silenced or intimidated into submission - they should be given a clear choice. 
 
-if we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized software that are actually censorship resistent.
+If we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized applications that are actually censorship resistent.
 
 More: https://github.com/ethereumclassic/freeworldcomputer-project
 
@@ -31,11 +31,11 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 Please help us spread the word about this project in Ethereum community! 
 
 ### Volunteers
-If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, people can put website together quickly, people who can write and advocate the need to preserve the original Ethereum. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new). Let's make sure original Ethereum vision doesn't 'go gentle into that good night'!
+If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, people can put website together quickly, people who can write and advocate the need to preserve the original Ethereum. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new). Let's make sure original Ethereum vision doesn't "go gentle into that good night"!
 
 ### Users
 
-In order to remain on the original chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
+In order to remain on the original Etherum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
 ### Miners
 
