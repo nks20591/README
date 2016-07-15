@@ -38,10 +38,12 @@ If you feel strongly about the cause, please get involved. With just days before
 
 In order to remain on the original Ethereum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
+Fun fact. If you keep ETH under your direct control (not in a 3rd party wallet or exchange account), you will have **two** sets of coins instead of one post-fork. You may then install a forked Ethereum client in addition to original one, copy your private keys there and use your coins on both chains! You won't be so lucky if your ETH are with 3rd party going into a fork - some exchanges [already announced](https://np.reddit.com/r/ethereum/comments/4sy7w6/breaking_kraken_on_the_july_20th_ethereum/) that they will only return one type of coin post-fork to its users.
+
 ### Miners
 
 Miners supporting the original chain should just keep mining with current version of software for now, without upgrading to client version introducing the hardfork code. It will be always possible to download and build latest non-fork version from https://github.com/ethereumclassic. 
 
 The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in original chain ETH even with solo mining.
 
-Mining pool supporting the original chain is currently under development, please check here in a couple of days. 
+Mining pool supporting the original chain is currently under development, please check here in a couple of days. We are also in talks with different exchanges to re-introduce trading in ETH Classic if the exchage leaves its users with [just one coin](https://np.reddit.com/r/ethereum/comments/4sy7w6/breaking_kraken_on_the_july_20th_ethereum/) post-fork.
