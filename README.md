@@ -1,6 +1,7 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 
 ![Ethereum Classic Logo](https://cdn-images-1.medium.com/max/800/1*zzxsLMrEpdjm0GuFp7FFEA.jpeg)
+
 **Have questions? Create an issue or request to be added to this project to contribute.**
 
 ## Ideology
