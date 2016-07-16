@@ -1,7 +1,7 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
-**Have questions? Create an issue or request to be added to this project to contribute.**
 
 ![Ethereum Classic Logo](https://cdn-images-1.medium.com/max/800/1*zzxsLMrEpdjm0GuFp7FFEA.jpeg)
+**Have questions? Create an issue or request to be added to this project to contribute.**
 
 ## Ideology
 We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone. 
@@ -58,4 +58,4 @@ Most important question for traders is 'will ETHC have market price'? There are 
 
 One exchange agreed to carry ETHC already. It's Bitsquare which is planning to [add ETHC trading right after the fork](https://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5e1oo7). Other trading venues will follow. We are in talks with several exchanges to add ETHC to their platforms (or re-introduce trading for the exchanges that previously traded ethers).
 
-#### Let's make sure original Ethereum vision doesn't "go gentle into that good night"!
+#### Let's make sure original Ethereum vision doesn't just "go gentle into that good night"!
