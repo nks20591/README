@@ -1,6 +1,8 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 **Have questions? Create an issue or request to be added to this project to contribute.**
 
+![Ethereum Classic Logo](https://cdn-images-1.medium.com/max/800/1*zzxsLMrEpdjm0GuFp7FFEA.jpeg)
+
 ## Ideology
 We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone. 
  
@@ -34,7 +36,7 @@ Code: https://github.com/ethereumclassic
 Please help us spread the word about this project in Ethereum community! 
 
 ### Volunteers
-If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new). Let's make sure original Ethereum vision doesn't "go gentle into that good night"!
+If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](https://www.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](https://github.com/ethereumclassic/README/issues/new).
 
 ### Users
 
@@ -55,3 +57,5 @@ Mining pool supporting the original chain is currently under development, please
 Most important question for traders is 'will ETHC have market price'? There are all reasons to believe that it will. Essentially, ETHC is an Ethereum ['spinoff coin'](https://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](https://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
 
 One exchange agreed to carry ETHC already. It's Bitsquare which is planning to [add ETHC trading right after the fork](https://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5e1oo7). Other trading venues will follow. We are in talks with several exchanges to add ETHC to their platforms (or re-introduce trading for the exchanges that previously traded ethers).
+
+#### Let's make sure original Ethereum vision doesn't "go gentle into that good night"!
