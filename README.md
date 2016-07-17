@@ -29,8 +29,8 @@ Code: https://github.com/ethereumclassic
 
 ### Community
 
-* https://www.ethereumclassic.org
-* https://www.reddit.com/r/EthereumClassic/
+* http://www.ethereumclassic.org
+* http://www.reddit.com/r/EthereumClassic/
 
 ## What can I do?
 
