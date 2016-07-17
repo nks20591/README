@@ -1,20 +1,20 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 
-![Ethereum Classic Logo](https://cdn-images-1.medium.com/max/800/1*zzxsLMrEpdjm0GuFp7FFEA.jpeg)
+![Ethereum Classic Logo](http://cdn-images-1.medium.com/max/800/1*zzxsLMrEpdjm0GuFp7FFEA.jpeg)
 
 **Have questions? Create an issue or request to be added to this project to contribute.**
 
 ## Ideology
 We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone. 
  
-More: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
+More: http://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
 
 ## Motivation
 Ethereum Foundation responded to DAO debacle in the worst way possible. Special interests controlling the Foundation are ramming through DAO bailout hardfork against principled opposition of a significant economic minority of Ethereum stakeholders. According to (diligently hidden, pro-fork) coin vote on [Carbonvote](http://carbonvote.com/), 19% of ETH holders oppose this hardfork. Also, about 22% of Ethereum miners voted against the previous 'DAO softfork' and would logically oppose hardfork as well. Such a significant minority of stakeholders should not be silenced or intimidated into submission - they should be given a clear choice. 
 
 If we want to continue to move forward and guarantee survival of the original Ethereum vision, we must fork Ethereum. This will lay the foundation to build secure decentralized applications that are actually censorship resistant.
 
-More: https://github.com/ethereumclassic/freeworldcomputer-project
+More: http://github.com/ethereumclassic/freeworldcomputer-project
 
 ## Goals
 
@@ -25,7 +25,7 @@ The main goal of the project is to ensure survival of the original Ethereum bloc
 ### Development
 We fork Ethereum and maintain upstream patches similar to the relation between Redhat and CentOS, until a community can form around the project and create a road map. Until this happens we can fork multiple existing clients to help prevent a monoculture of clients. We plan to follow https://github.com/ethereum development except for any features they introduce into existing clients that violate the key principles of openness, neutrality and immutability.
 
-Code: https://github.com/ethereumclassic
+Code: http://github.com/ethereumclassic
 
 ### Community
 
