@@ -1,6 +1,6 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 
-![Ethereum Classic Logo](http://cdn-images-1.medium.com/max/800/1*zzxsLMrEpdjm0GuFp7FFEA.jpeg)
+![Ethereum Classic Logo](http://cdn-images-1.medium.com/max/800/1*nIUazw_u3KChCX89fLgLDg.png)
 
 **Have questions? Create an issue or request to be added to this project to contribute.**
 
@@ -51,7 +51,7 @@ Miners supporting the original chain should just keep mining with current versio
 
 The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in classic ethers even with solo mining.
 
-Mining pool supporting the original chain is currently under development, please check here in a couple of days. 
+We have mining pool supporting Ethereum Classic: http://ethc.epool.io. Because the difficulty adjusts quickly, it will be also quite possible to solo mine soon after the fork. If you intend to mine Ethereum Classic, please **don't upgrade to geth 1.4.10** just yet, due to [potential vulnerability](https://www.reddit.com/r/EthereumClassic/comments/4ti33y/classic_miners_please_use_geth_149/). We will inform you when it's safe to upgrade. For now, just solo-mine with geth 1.4.9 or any earlier version, or use Classic pool.
 
 ### Traders
 
