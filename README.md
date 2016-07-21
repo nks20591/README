@@ -25,12 +25,16 @@ The main goal of the project is to ensure survival of the original Ethereum bloc
 ### Development
 We fork Ethereum and maintain upstream patches similar to the relation between Redhat and CentOS, until a community can form around the project and create a road map. Until this happens we can fork multiple existing clients to help prevent a monoculture of clients. We plan to follow http://github.com/ethereum development except for any features they introduce into existing clients that violate the key principles of openness, neutrality and immutability.
 
-Code: http://github.com/ethereumclassic
+Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
 
 ### Community
 
-* http://www.ethereumclassic.org
-* http://www.reddit.com/r/EthereumClassic/
+* Website: http://www.ethereumclassic.org
+* Subreddit: http://www.reddit.com/r/EthereumClassic/
+* Block explorer: http://classic.aakilfernandes.com/
+* Block explorer: http://gastracker.io/
+* Wiki: http://ethcwiki.org
+* Trading: http://bitsquare.io
 
 ## What can I do?
 
@@ -58,5 +62,10 @@ We have mining pool supporting Ethereum Classic: http://ethc.epool.io. Because t
 Most important question for traders is 'will ETHC have market price'? There are all reasons to believe that it will. Essentially, ETHC is an Ethereum ['spinoff coin'](http://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](http://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
 
 Both Poloniex a Bitfinex announced that they will assign their users both ETH and ETHC after the fork. This is a step in the right direction, now it's up to these major exchanges to enable ETH/ETHC trading that will no doubt be demanded by users. Decentralized exchange Bitsquare announced [ETHC trading right after the fork](http://www.reddit.com/r/EthereumClassic/comments/4t30qf/bitsquare_will_add_ethc_trading_immediately/). Other trading venues will follow since there is a strong business case. We are in touch with several other exchanges to add ETHC trading to their platforms. If your exchange is interested in ETHC trading, please [contact us](mailto:bitnovosti@gmail.com).
+
+### Donations
+ETHC: 0x0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
+ETH: 0xda99c6385e7ec0a7b4031c393dac01b600341fc3
+BTC: 1953UK8Y849SZqfDEnn3Zu4AM98hwWk3Kw
 
 #### Let's make sure original Ethereum vision doesn't just "go gentle into that good night"!
