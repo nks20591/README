@@ -47,21 +47,25 @@ If you feel strongly about the cause, please get involved. With just days before
 
 In order to remain on the original Ethereum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
-Fun fact. If you keep ETH under your direct control (not in a 3rd party wallet or exchange account), you will have **two** sets of coins instead of one post-fork. You could then install a forked Ethereum client in addition to Ethereum Classic, copy your private keys there and use your coins on both chains! You won't be so lucky if your ETH are locked with 3rd party going into the fork - some exchanges [already announced](http://np.reddit.com/r/ethereum/comments/4sy7w6/breaking_kraken_on_the_july_20th_ethereum/) that they will only return one type of coin post-fork to its users.
+Fun fact. Everyone who had legacy ETH under your direct control (not in a 3rd party wallet) pre-fork, now has an extra 'bonus': you have the same amount of ETHC on the same address. If you install Ethereum Classic client (better on a separate computer), you can use your coins on both chains! Just follow this advice to [separate your legacy funds cleanly and avoid replay attack](https://github.com/ethereumclassic/README/issues/3). If you held ETH balances with major exchanges: Bitfinex, Poloniex, Kraken, you have good news: they are going to assign you an equal amount ETHC post-fork! 
 
 ### Miners
 
 Miners supporting the original chain should just keep mining with current version of software for now, without upgrading to client version introducing the hardfork code. It will be always possible to download and build latest non-fork version from http://github.com/ethereumclassic. 
 
-The difficulty of the original chain will be quite high post-fork, but it will adjust to actual hashrate shortly (just 2048 blocks, a few hours). Since it is expected that most hashrate will move to hardfoked chain, post-adjustment it will be possible to obtain decent mining rewards in classic ethers even with solo mining.
+The difficulty bump after the fork was huge, but overall the separation of the networks went smoothly. Our miners stood strong and prevailed against long odds. We are past the initial difficulty bump, nethash is about 30GH, making Ethereum Classic one of the most secure blockchains (for comparison, original Ethereum started with just 16GH last August). Time between blocks is back to normal, network stable and ready for business. Mining is becoming sustainable, even solo miners have a chance to make a classic block or two. It is now possible to obtain decent mining rewards in classic ethers from mining. Join in on the fun! 
 
-We have mining pool supporting Ethereum Classic: http://ethc.epool.io. Because the difficulty adjusts quickly, it will be also quite possible to solo mine soon after the fork. If you intend to mine Ethereum Classic, please **don't upgrade to geth 1.4.10** just yet, due to [potential vulnerability](https://www.reddit.com/r/EthereumClassic/comments/4ti33y/classic_miners_please_use_geth_149/). We will inform you when it's safe to upgrade. For now, just solo-mine with geth 1.4.9 or any earlier version, or use Classic pool.
+We have mining pools supporting Ethereum Classic: 
+* http://ethc.epool.io  ([support thread](https://www.reddit.com/r/EthereumClassic/comments/4tcdmc/ethc_classic_mining_pool/))
+* http://pool.ethereumclassic.com
+
+Additional info on [solo mining and more mining tips](https://www.reddit.com/r/EthereumClassic/comments/4ti33y/classic_miners_please_use_geth_149_for_now/). 
 
 ### Traders
 
 Most important question for traders is 'will ETHC have market price'? There are all reasons to believe that it will. Essentially, ETHC is an Ethereum ['spinoff coin'](http://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](http://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
 
-Both Poloniex a Bitfinex announced that they will assign their users both ETH and ETHC after the fork. This is a step in the right direction, now it's up to these major exchanges to enable ETH/ETHC trading that will no doubt be demanded by users. Decentralized exchange Bitsquare announced [ETHC trading right after the fork](http://www.reddit.com/r/EthereumClassic/comments/4t30qf/bitsquare_will_add_ethc_trading_immediately/). Other trading venues will follow since there is a strong business case. We are in touch with several other exchanges to add ETHC trading to their platforms. If your exchange is interested in ETHC trading, please [contact us](mailto:bitnovosti@gmail.com).
+All the major exchanges announced that they will assign their users both ETH and ETHC after the fork. This is a step in the right direction, now it's up to these major exchanges to enable ETH/ETHC trading that will no doubt be demanded by users. Decentralized exchange Bitsquare started [ETHC trading right after the fork](http://www.reddit.com/r/EthereumClassic/comments/4t30qf/bitsquare_will_add_ethc_trading_immediately/). Other trading venues will follow since there is a strong business case. We are in touch with several other exchanges to add ETHC trading to their platforms. If your exchange is interested in ETHC trading, please [contact us](mailto:bitnovosti@gmail.com).
 
 ### Donations
 ETHC: 0x0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
