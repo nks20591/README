@@ -30,9 +30,9 @@ Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
 ### Community
 
 * Website: http://www.ethereumclassic.org
-* Subreddit: http://www.reddit.com/r/EthereumClassic/
-* Block explorer: http://classic.aakilfernandes.com/
-* Block explorer: http://gastracker.io/
+* Subreddit: http://www.reddit.com/r/EthereumClassic
+* Block explorers: http://explorer.ethereumclassic.com/, http://classic.aakilfernandes.com, http://gastracker.io
+* Slack channel: https://ethereumclassic.herokuapp.com
 * Wiki: http://ethcwiki.org
 * Trading: http://bitsquare.io
 
