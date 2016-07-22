@@ -63,12 +63,12 @@ Additional info on [solo mining and more mining tips](https://www.reddit.com/r/E
 
 ### Traders
 
-Most important question for traders is 'will ETHC have market price'? There are all reasons to believe that it will. Essentially, ETHC is an Ethereum ['spinoff coin'](http://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](http://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
+Most important question for traders is 'will ETC have market price'? There are all reasons to believe that it will. Essentially, ETC is an Ethereum ['spinoff coin'](http://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](http://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
 
-All the major exchanges announced that they will assign their users both ETH and ETHC after the fork. This is a step in the right direction, now it's up to these major exchanges to enable ETH/ETHC trading that will no doubt be demanded by users. Decentralized exchange Bitsquare started [ETHC trading right after the fork](http://www.reddit.com/r/EthereumClassic/comments/4t30qf/bitsquare_will_add_ethc_trading_immediately/). Other trading venues will follow since there is a strong business case. We are in touch with several other exchanges to add ETHC trading to their platforms. If your exchange is interested in ETHC trading, please [contact us](mailto:bitnovosti@gmail.com).
+All the major exchanges announced that they will assign their users both ETH and ETC after the fork. This is a step in the right direction, now it's up to these major exchanges to enable ETH/ETC trading that will no doubt be demanded by users. Decentralized exchange Bitsquare started [ETC trading right after the fork](http://www.reddit.com/r/EthereumClassic/comments/4t30qf/bitsquare_will_add_ethc_trading_immediately/). Other trading venues will follow since there is a strong business case. We are in touch with several other exchanges to add ETC trading to their platforms. If your exchange is interested in ETC trading, please [contact us](mailto:bitnovosti@gmail.com).
 
 ### Donations
-* ETHC: 0x0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
+* ETC: 0x0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
 * ETH: 0xda99c6385e7ec0a7b4031c393dac01b600341fc3
 * BTC: 1953UK8Y849SZqfDEnn3Zu4AM98hwWk3Kw
 
