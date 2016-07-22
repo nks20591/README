@@ -41,13 +41,13 @@ Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
 Please help us spread the word about this project in Ethereum community! 
 
 ### Volunteers
-If you feel strongly about the cause, please get involved. With just days before the planned hardfork, we need your support to ensure original Ethereum survival. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](http://np.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](http://github.com/ethereumclassic/README/issues/new).
+If you feel strongly about the cause, please get involved. We need your support to ensure original Ethereum will be kept alive. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](http://np.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](http://github.com/ethereumclassic/README/issues/new).
 
 ### Users
 
 In order to remain on the original Ethereum chain, just don't upgrade to hardfork client version pushed by Ethereum Foundation. We will maintain non-fork versions of all major Ethereum clients (as well as other key software), so going forwards all the improvements will be available to you.
 
-Fun fact. Everyone who had legacy ETH under your direct control (not in a 3rd party wallet) pre-fork, now has an extra 'bonus': you have the same amount of ETHC on the same address. If you install Ethereum Classic client (better on a separate computer), you can use your coins on both chains! Just follow this advice to [separate your legacy funds cleanly and avoid replay attack](https://github.com/ethereumclassic/README/issues/3). If you held ETH balances with major exchanges: Bitfinex, Poloniex, Kraken, you have good news: they are going to assign you an equal amount ETHC post-fork! 
+Fun fact. Everyone who had legacy ETH in your wallet pre-fork, now has an extra 'bonus': you have the same amount of classic ethers (ETC) on the same address. If you install Ethereum Classic client (better on a separate computer), you can use your coins on both chains! Just follow this advice to [separate your legacy funds cleanly and avoid replay attack](https://github.com/ethereumclassic/README/issues/3). If you held ETH balances with major exchanges: Bitfinex, Poloniex, Kraken, you have good news: they are going to assign you an equal amount ETC post-fork! 
 
 ### Miners
 
