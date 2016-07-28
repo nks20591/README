@@ -41,7 +41,7 @@ Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
 Please help us spread the word about this project in Ethereum community! 
 
 ### Volunteers
-If you feel strongly about the cause, please get involved. We need your support to ensure original Ethereum will be kept alive. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute. Redditors, please [reply here](http://np.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](http://github.com/ethereumclassic/README/issues/new).
+If you feel strongly about the cause, please get involved. We need your support to ensure original Ethereum will be kept alive. We need more developers, website designers, people who can write and advocate the need for Ethereum Classic. Please let us know what are your skills and how you would like to contribute, [reply here](https://github.com/ethereumproject/Volunteer). Redditors, please [reply here](http://np.reddit.com/r/EthereumClassic/comments/4sxupj/making_sure_original_ethereum_survives_please_get/). Github users, please [open new issue](http://github.com/ethereumclassic/README/issues/new).
 
 ### Users
 
