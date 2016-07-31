@@ -1,6 +1,6 @@
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 
-![Ethereum Classic Logo](http://cdn-images-1.medium.com/max/800/1*nIUazw_u3KChCX89fLgLDg.png)
+![Ethereum Classic Logo](https://avatars0.githubusercontent.com/u/20253748)
 
 **Have questions? Create an issue or request to be added to this project to contribute.**
 
@@ -27,14 +27,21 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 
 Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
 
+* Telegram: [@etcdev](https://telegram.me/etcdev)
+* IRC: #etc-dev @ reticulum.oftc.net
+
+
 ### Community
 
 * Website: http://www.ethereumclassic.org
-* Subreddit: http://www.reddit.com/r/EthereumClassic
+* Official forum thread: https://bitcointalk.org/index.php?topic=1559630.0
+* Subreddit: [/r/EthereumClassic](http://www.reddit.com/r/EthereumClassic)
 * Block explorers: http://explorer.ethereumclassic.com/, http://classic.aakilfernandes.com, http://gastracker.io
 * Slack channel: https://ethereumclassic.herokuapp.com
+* Telegram group(s): [@ethclassic](https://telegram.me/ethclassic), [@ethereumclassic](https://telegram.me/ethereumclassic), [@etcdev](https://telegram.me/etcdev)
+* Twitter: [@EthereumClassic](https://twitter.com/ethereumclassic)
 * Wiki: http://ethcwiki.org
-* Trading: http://bitsquare.io
+* Trading: [Bitsquare.io](http://bitsquare.io), [Kraken ETC/ETH, ETC/EUR, ETC/USD and ETC/XBT](https://www.kraken.com), [Poloniex ETC/BTC](https://poloniex.com/exchange#btc_etc), [Poloniex ETC/ETH](https://poloniex.com/exchange#btc_etc), [Bittrex ETC/BTC](https://bittrex.com/Market/Index?MarketName=BTC-ETC), [BitMex futures contract ETC](https://bittrex.com/Market/Index?MarketName=BTC-ETC), [BitFinex ETC/BTC](https://bitfinex.com)
 
 ## What can I do?
 
@@ -58,6 +65,13 @@ The difficulty bump after the fork was huge, but overall the separation of the n
 We have mining pools supporting Ethereum Classic: 
 * http://ethc.epool.io  ([support thread](https://www.reddit.com/r/EthereumClassic/comments/4tcdmc/ethc_classic_mining_pool/))
 * http://pool.ethereumclassic.com
+* etc.nanopool.org
+* etcpool.io
+* etc.suprnova.cc
+* minergate.com
+* ethclassic.tk
+* etc.altpool.net
+* ethteam.com
 
 Additional info on [solo mining and more mining tips](https://www.reddit.com/r/EthereumClassic/comments/4ti33y/classic_miners_please_use_geth_149_for_now/). 
 
@@ -66,6 +80,12 @@ Additional info on [solo mining and more mining tips](https://www.reddit.com/r/E
 Most important question for traders is 'will ETC have market price'? There are all reasons to believe that it will. Essentially, ETC is an Ethereum ['spinoff coin'](http://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](http://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
 
 All the major exchanges announced that they will assign their users both ETH and ETC after the fork. This is a step in the right direction, now it's up to these major exchanges to enable ETH/ETC trading that will no doubt be demanded by users. Decentralized exchange Bitsquare started [ETC trading right after the fork](http://www.reddit.com/r/EthereumClassic/comments/4t30qf/bitsquare_will_add_ethc_trading_immediately/). Other trading venues will follow since there is a strong business case. We are in touch with several other exchanges to add ETC trading to their platforms. If your exchange is interested in ETC trading, please [contact us](mailto:bitnovosti@gmail.com).
+
+### Press
+
+* [Ethereum Hard Fork Creates Competing Currencies as Support for Ethereum Classic Rises](http://www.coindesk.com/ethereum-hard-fork-creates-competing-currencies-support-ethereum-classic-rises/)
+* [Ethereum's Two Ethereums Explained](http://www.coindesk.com/ethereum-classic-explained-blockchain/)
+
 
 ### Donations
 * ETC: 0x0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
