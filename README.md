@@ -65,13 +65,13 @@ The difficulty bump after the fork was huge, but overall the separation of the n
 We have mining pools supporting Ethereum Classic: 
 * http://ethc.epool.io  ([support thread](https://www.reddit.com/r/EthereumClassic/comments/4tcdmc/ethc_classic_mining_pool/))
 * http://pool.ethereumclassic.com
-* etc.nanopool.org
-* etcpool.io
-* etc.suprnova.cc
-* minergate.com
-* ethclassic.tk
-* etc.altpool.net
-* ethteam.com
+* http://etc.nanopool.org
+* https://etcpool.io
+* https://etc.suprnova.cc
+* https://minergate.com
+* http://ethclassic.tk
+* http://etc.altpool.net
+* http://ethteam.com
 
 Additional info on [solo mining and more mining tips](https://www.reddit.com/r/EthereumClassic/comments/4ti33y/classic_miners_please_use_geth_149_for_now/). 
 
