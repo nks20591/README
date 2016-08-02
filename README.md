@@ -28,7 +28,7 @@ We fork Ethereum and maintain upstream patches similar to the relation between R
 Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
 
 * Telegram: [@etcdev](https://telegram.me/etcdev)
-* IRC: #etc-dev @ reticulum.oftc.net
+* IRC: [#etc-dev @ reticulum.oftc.net](https://webchat.oftc.net/?channels=etc-dev&uio=d4)
 
 
 ### Community
