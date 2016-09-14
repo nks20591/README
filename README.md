@@ -88,7 +88,7 @@ All the major exchanges announced that they will assign their users both ETH and
 
 
 ### Donations
-* ETC: 0x0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
+* ETC: 0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
 * ETH: 0xda99c6385e7ec0a7b4031c393dac01b600341fc3
 * BTC: 1953UK8Y849SZqfDEnn3Zu4AM98hwWk3Kw
 
