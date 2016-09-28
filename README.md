@@ -1,3 +1,5 @@
+**Please see updated Ethereum Classic website: http://ethereumclassic.org**
+
 ### Ethereum Classic is a project to keep the original censorship-resistant Ethereum going
 
 ![Ethereum Classic Logo](https://avatars0.githubusercontent.com/u/20253748)
@@ -25,7 +27,7 @@ The main goal of the project is to ensure survival of the original Ethereum bloc
 ### Development
 We fork Ethereum and maintain upstream patches similar to the relation between Redhat and CentOS, until a community can form around the project and create a road map. Until this happens we can fork multiple existing clients to help prevent a monoculture of clients. We plan to follow http://github.com/ethereum development except for any features they introduce into existing clients that violate the key principles of openness, neutrality and immutability.
 
-Code: http://github.com/ethereumclassic, http://github.com/ethereumproject
+Code (dev) repository: http://github.com/ethereumproject
 
 * Telegram: [@etcdev](https://telegram.me/etcdev)
 * IRC: [#etc-dev @ reticulum.oftc.net](https://webchat.oftc.net/?channels=etc-dev&uio=d4)
